@@ -28,7 +28,7 @@ int main()
 		cin >> arr[i];
 	}
 
-	InsertionSort(arr);
+	insertionSort(arr);
 
 	for (int i = 0; i < n; i++)
 	{
