@@ -33,7 +33,6 @@ void quicksort(vector<int>& arr, int l, int r)
 		quicksort(arr, p + 1, r);
 	}
 }
-
 int main()
 {
 	int n = 0;
