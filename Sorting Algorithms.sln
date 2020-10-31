@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Quicksort", "Quicksort\Quic
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Selection Sort", "Selection Sort\Selection Sort.vcxproj", "{815EDE4B-B755-41C8-A135-5DE89A53BCE2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bubble Sort", "Bubble Sort\Bubble Sort.vcxproj", "{8CAEA14A-E8BC-46FF-9584-BFCC997B68B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{815EDE4B-B755-41C8-A135-5DE89A53BCE2}.Release|x64.Build.0 = Release|x64
 		{815EDE4B-B755-41C8-A135-5DE89A53BCE2}.Release|x86.ActiveCfg = Release|Win32
 		{815EDE4B-B755-41C8-A135-5DE89A53BCE2}.Release|x86.Build.0 = Release|Win32
+		{8CAEA14A-E8BC-46FF-9584-BFCC997B68B4}.Debug|x64.ActiveCfg = Debug|x64
+		{8CAEA14A-E8BC-46FF-9584-BFCC997B68B4}.Debug|x64.Build.0 = Debug|x64
+		{8CAEA14A-E8BC-46FF-9584-BFCC997B68B4}.Debug|x86.ActiveCfg = Debug|Win32
+		{8CAEA14A-E8BC-46FF-9584-BFCC997B68B4}.Debug|x86.Build.0 = Debug|Win32
+		{8CAEA14A-E8BC-46FF-9584-BFCC997B68B4}.Release|x64.ActiveCfg = Release|x64
+		{8CAEA14A-E8BC-46FF-9584-BFCC997B68B4}.Release|x64.Build.0 = Release|x64
+		{8CAEA14A-E8BC-46FF-9584-BFCC997B68B4}.Release|x86.ActiveCfg = Release|Win32
+		{8CAEA14A-E8BC-46FF-9584-BFCC997B68B4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
