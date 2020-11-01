@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bucket Sort", "Bucket Sort\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Counting Sort", "Counting Sort\Counting Sort.vcxproj", "{6D58A884-C981-4F88-80E5-E613C59E029C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Radix Sort", "Radix Sort\Radix Sort.vcxproj", "{256FBC4D-A35F-49F1-9298-EBC19351A8D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{6D58A884-C981-4F88-80E5-E613C59E029C}.Release|x64.Build.0 = Release|x64
 		{6D58A884-C981-4F88-80E5-E613C59E029C}.Release|x86.ActiveCfg = Release|Win32
 		{6D58A884-C981-4F88-80E5-E613C59E029C}.Release|x86.Build.0 = Release|Win32
+		{256FBC4D-A35F-49F1-9298-EBC19351A8D3}.Debug|x64.ActiveCfg = Debug|x64
+		{256FBC4D-A35F-49F1-9298-EBC19351A8D3}.Debug|x64.Build.0 = Debug|x64
+		{256FBC4D-A35F-49F1-9298-EBC19351A8D3}.Debug|x86.ActiveCfg = Debug|Win32
+		{256FBC4D-A35F-49F1-9298-EBC19351A8D3}.Debug|x86.Build.0 = Debug|Win32
+		{256FBC4D-A35F-49F1-9298-EBC19351A8D3}.Release|x64.ActiveCfg = Release|x64
+		{256FBC4D-A35F-49F1-9298-EBC19351A8D3}.Release|x64.Build.0 = Release|x64
+		{256FBC4D-A35F-49F1-9298-EBC19351A8D3}.Release|x86.ActiveCfg = Release|Win32
+		{256FBC4D-A35F-49F1-9298-EBC19351A8D3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
